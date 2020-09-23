@@ -18,7 +18,7 @@
 
 <details>
     <summary><b> Spotify 🎧 </b></summary>
-<p align="center"><a href="https://open.spotify.com/user/nookavish"><img width="450px" alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=nookavish&cover_image=true" /></a></p>
+<p align="center"><a href="https://open.spotify.com/user/nookavish"><img width="370px" alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=nookavish&cover_image=true" /></a></p>
 </details>
 
 ---
