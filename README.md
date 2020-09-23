@@ -12,13 +12,13 @@
 ---
 <details>
     <summary><b> GitHub Stats 🔨 </b></summary>
-<img alt="arnooka's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<p align="center"><img width="450px" alt="arnooka's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></p>
 <!-- <img align="left" alt="arnooka's Github Stats" src="https://github-readme-stats-f3ur100pt.vercel.app/api?username=arnooka&&show_icons=false&count_private=true&hide_rank=true" /> -->
 </details>
 
 <details>
     <summary><b> Spotify 🎧 </b></summary>
-<a href="https://open.spotify.com/user/nookavish"><img alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=nookavish&cover_image=true" /></a>
+<p align="center"><a href="https://open.spotify.com/user/nookavish"><img width="450px" alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=nookavish&cover_image=true" /></a></p>
 </details>
 
 ---
