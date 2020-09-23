@@ -11,19 +11,14 @@
 
 ---
 <details>
- <summary><b> GitHub Stats 🔨 </b></summary>
-<div style="text-align:center">
+    <summary><b> GitHub Stats 🔨 </b></summary>
 <img alt="arnooka's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 <!-- <img align="left" alt="arnooka's Github Stats" src="https://github-readme-stats-f3ur100pt.vercel.app/api?username=arnooka&&show_icons=false&count_private=true&hide_rank=true" /> -->
-</div>
-
 </details>
 
 <details>
- <summary><b> Spotify 🎧 </b></summary>
-
-<div style="text-align:center"><img alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=nookavish&cover_image=true" /><div>
-
+    <summary><b> Spotify 🎧 </b></summary>
+<a href="https://open.spotify.com/user/nookavish"><img alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=nookavish&cover_image=true" /></a>
 </details>
 
 ---
