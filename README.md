@@ -10,14 +10,6 @@
 <!-- - 👯 I’m looking to collaborate with other DIY enthusiasts -->
 
 ---
-### Spotify 🎧
-[<img src="https://spotify-now-playing-kohl.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="450" />](https://open.spotify.com/user/nookavish)
-
----
-### Connect with me:
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-
 ### Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +29,16 @@
 ![Travis CI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white)
 
+### Connect with me:
+[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
+---
+### Spotify 🎧
+[<img src="https://spotify-now-playing-kohl.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="450" />](https://open.spotify.com/user/nookavish)
+
+---
+<!--START_SECTION:activity-->
 
 [project]: https://github.com/arnooka/elasticsearch
 [twitter]: https://twitter.com/AvinashNooka
