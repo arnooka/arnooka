@@ -37,9 +37,6 @@
 ### Spotify 🎧
 [<img src="https://spotify-now-playing-kohl.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="450" />](https://open.spotify.com/user/nookavish)
 
----
-<!--START_SECTION:activity-->
-
 [project]: https://github.com/arnooka/elasticsearch
 [twitter]: https://twitter.com/AvinashNooka
 [linkedin]: https://www.linkedin.com/in/avinash-nooka
