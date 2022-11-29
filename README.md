@@ -1,12 +1,11 @@
-### Hi there, I'm Avinash 👋
+## Hi there, I'm Avinash 👋
 
----
-## I'm a Engineer, Developer, and Avid Gamer!
+### I'm a Engineer, Developer, and Avid Gamer!
 
-- 🔭 I’m currently working on a [NoSQL Docker Project][project]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Current Goal: Contribute more to Open Source projects
-- ⚡ Fun fact: I love tinkering with electronics and flying drones
+<!-- - 🔭 I’m currently working on a [NoSQL Docker Project][project]! -->
+<!-- - 🌱 I’m currently learning everything 🤣 -->
+<!-- - 🥅 Current Goal: Contribute more to Open Source projects -->
+<!-- - ⚡ Fun fact: I love tinkering with electronics and flying drones -->
 <!-- - 👯 I’m looking to collaborate with other DIY enthusiasts -->
 
 ---
